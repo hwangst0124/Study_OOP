@@ -1,0 +1,109 @@
+{
+  "foods": [
+    {
+      "food_id": 1,
+      "name": "피자",
+      "price": 35000
+    },
+    {
+      "food_id": 2,
+      "name": "치킨",
+      "price": 30000
+    },
+    {
+      "food_id": 3,
+      "name": "콜라",
+      "price": 1500
+    },
+    {
+      "food_id": 4,
+      "name": "삼계탕",
+      "price": 25000
+    },
+    {
+      "food_id": 5,
+      "name": "삼각김밥",
+      "price": 1400
+    },
+    {
+      "food_id": 6,
+      "name": "물",
+      "price": 1000
+    },
+    {
+      "food_id": 7,
+      "name": "빵",
+      "price": 2000
+    },
+    {
+      "food_id": 8,
+      "name": "감자탕",
+      "price": 29900
+    },
+    {
+      "food_id": 9,
+      "name": "김치찌개",
+      "price": 8000
+    },
+    {
+      "food_id": 10,
+      "name": "된장찌개",
+      "price": 8000
+    },
+    {
+      "food_id": 11,
+      "name": "불고기",
+      "price": 7000
+    },
+    {
+      "food_id": 12,
+      "name": "비빔밥",
+      "price": 5900
+    },
+    {
+      "food_id": 13,
+      "name": "삼겹살",
+      "price": 13000
+    },
+    {
+      "food_id": 14,
+      "name": "갈비찜",
+      "price": 19900
+    },
+    {
+      "food_id": 15,
+      "name": "소갈비",
+      "price": 15900
+    },
+    {
+      "food_id": 16,
+      "name": "청국장",
+      "price": 8900
+    },
+    {
+      "food_id": 17,
+      "name": "떡볶이",
+      "price": 5900
+    },
+    {
+      "food_id": 18,
+      "name": "야채튀김",
+      "price": 7900
+    },
+    {
+      "food_id": 19,
+      "name": "짜장면",
+      "price": 5900
+    },
+    {
+      "food_id": 20,
+      "name": "짬뽕",
+      "price": 7900
+    },
+    {
+      "food_id": 21,
+      "name": "탕수육",
+      "price": 15900
+    }
+  ]
+}
