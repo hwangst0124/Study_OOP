@@ -307,3 +307,16 @@ pyvenv.cfg
 pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,venv,pycharm
+.idea/
+
+Exception/__init__.py
+
+model/__init__.py
+
+OOP/
+
+repository/__init__.py
+
+utils/__init__.py
+
+view/__init__.py
